@@ -1,6 +1,17 @@
 # HPC0: Introduction to Linux
 
-HPC0 is our introductory course to the linux command line. It is a key prerequisite course prior to HPC1
+HPC0 is our introductory course to the linux command line. It is a key prerequisite course prior to HPC1 and provides a gentle introduction for users to the unix shell. The initial set up steps often require several helpers to provide one-to-one support for users who struggle with the initial configuration of SSH clients.
+
+## Learning objectives
+
+- Understand the purpose of the Linux Shell
+- Effectively manage Files and Directories at the command line
+- Understand the structure of the linux filesystem
+- Create files, directories and other objects
+- Create Pipes and Filters to join together commands
+- Understand how to find help from the command line
+- Find files and directories from the command line
+- Use command line tools to search for patterns in data, filter, remove and edit data
 
 ## Instructor todo
 
