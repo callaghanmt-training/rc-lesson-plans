@@ -4,6 +4,12 @@ This is a small repository containing general lesson plans for Research Computin
 
 ## Research Computing Courses
 
-- [HPC0]()
-- [HPC1]()
-- [SWD1a]()
+- [HPC0](https://github.com/ARCTraining/rc-lesson-plans/blob/main/hpc0/hpc0-lesson-plan.md)
+
+## TODO
+
+- HPC1
+- SWD1a
+- SWD1b
+- HPC6
+- SWD6
