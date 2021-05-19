@@ -23,7 +23,8 @@ HPC0 is our introductory course to the linux command line. It is a key prerequis
 
 This course doesn't explicitly require pre course prep however it is encouraged to request participants do the following steps so that more can be covered in the workshop itself.
 
-### Recommended setup steps:
+### Recommended setup steps
+
 - Users register for HPC accounts using the [HPC account request form](https://leeds.service-now.com/it?id=sc_cat_item&sys_id=4c002dd70f235f00a82247ece1050ebc)
 - Set up personal computer for connecting to HPC (HPC account required)
     - An overview can be found [here (including screenshots)](https://hackmd.io/xBKb6Az3QmewUsVF3ab2qg#Pre-workshop-prep)
