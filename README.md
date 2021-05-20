@@ -5,10 +5,10 @@ This is a small repository containing general lesson plans for Research Computin
 ## Research Computing Courses
 
 - [HPC0](https://github.com/ARCTraining/rc-lesson-plans/blob/main/hpc0/hpc0-lesson-plan.md)
+- [HPC1](https://github.com/ARCTraining/rc-lesson-plans/blob/main/hpc1/hpc1-lesson-plan.md)
 
 ## TODO
 
-- HPC1
 - SWD1a
 - SWD1b
 - HPC6
