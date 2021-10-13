@@ -1,0 +1,3 @@
+[submodule "swd1/python-2021-04"]
+	path = swd1a/python-2021-04
+	url = https://github.com/ARCTraining/python-2021-04
