@@ -1,7 +1,7 @@
 # SWD6: High Performance Python
 
 SWD6 is one of our intermediate level courses in Python. 
-It introduces a number of ways to both measure the efficiency of your code and improve it’s speed of execution by introducing strategies for fast and scalable computation with Python.
+It introduces a number of ways to both measure the efficiency of your code and improve its speed of execution by introducing strategies for fast and scalable computation with Python.
 The course is suitable for those with a working knowledge of Python.
 We will use a Web based programming environment (Jupyter Notebook / Colab), which means you will be able to apply the ideas you learn on the course straightaway without having to install any software at home or at work.
 This course is delivered as an all-day workshop.
@@ -51,11 +51,11 @@ Six possible lessons:
 6. GPUs
     - 50 mins content
 
-All have 10 mins of both exercises and solutions.
+All have 10 mins each of both exercises and solutions.
 
-Delivery includes either lesson 5 or 6.
+Delivery options include either lesson 5 or 6.
 
-### Option 1: Including Parallelisation
+### Option 1: Including lesson 5. Parallelisation
 
 | Time     | Session                                       | No. of helpers | Learner activities                                  |
 | -------- | --------------------------------------------- | -------------- | --------------------------------------------------- |
@@ -87,7 +87,7 @@ Delivery includes either lesson 5 or 6.
 | 15:50    | Summary, wrap up, and questions               |                |                                                     |
 | 16:00    | Close                                         |                |                                                     |
 
-### Option 2: Including GPUs
+### Option 2: Including lesson 6. GPUs
 
 | Time     | Session                                       | No. of helpers | Learner activities                                  |
 | -------- | --------------------------------------------- | -------------- | --------------------------------------------------- |
@@ -124,7 +124,7 @@ Delivery includes either lesson 5 or 6.
 
 Here are example agendas that can be shared in a session hackpad.
 
-### Option 1: Including Parallelisation
+### Option 1: Including lesson 5. Parallelisation
 
 | Time      | Agenda                                                            |
 | --------- | ----------------------------------------------------------------- |
@@ -147,7 +147,7 @@ Here are example agendas that can be shared in a session hackpad.
 | 15:50     | Summary, wrap up, and questions                                   |
 | 16:00     | Close                                                             |
 
-### Option 2: Including GPUs
+### Option 2: Including lesson 6. GPUs
 
 | Time      | Agenda                                                            |
 | --------- | ----------------------------------------------------------------- |
