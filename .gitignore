@@ -1,1 +1,2 @@
 # .gitignore for rc-lesson-plans
+*.ipynb_checkpoints*
