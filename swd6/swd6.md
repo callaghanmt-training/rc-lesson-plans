@@ -3,7 +3,7 @@
 SWD6 is one of our intermediate level courses in Python. 
 It introduces a number of ways to both measure the efficiency of your code and improve its speed of execution by introducing strategies for fast and scalable computation with Python.
 The course is suitable for those with a working knowledge of Python.
-We will use a Web based programming environment (Jupyter Notebook / Colab), which means you will be able to apply the ideas you learn on the course straightaway without having to install any software at home or at work.
+We will use a Web based programming environment (Jupyter Notebook / Google Colab), which means you will be able to apply the ideas you learn on the course straightaway without having to install any software at home or at work.
 This course is delivered as an all-day workshop.
 
 ## Learning objectives
