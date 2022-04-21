@@ -8,6 +8,7 @@ This is a small repository containing general lesson plans for Research Computin
 - [HPC1](https://github.com/ARCTraining/rc-lesson-plans/blob/main/hpc1/hpc1-lesson-plan.md)
 - [SWD1a](https://github.com/ARCTraining/rc-lesson-plans/blob/main/swd1a/swd1a.md)
 - [SWD6](https://github.com/ARCTraining/rc-lesson-plans/blob/main/swd6/swd6.md)
+- [SWD8](https://github.com/ARCTraining/rc-lesson-plans/blob/main/swd8/swd8.md)
 
 ## TODO
 
