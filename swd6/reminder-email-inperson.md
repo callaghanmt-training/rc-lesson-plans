@@ -1,8 +1,8 @@
 Hi Everyone,
 
-Thanks for signing up for the SWD6: High Performance Python course happening next ***{{ start date}}*** starting at ***{{ start time}}***.
+Thanks for signing up for the SWD6: High Performance Python course happening next ***{{ start date }}*** starting at ***{{ start time }}***.
 
-The workshop will be hands on so be prepared to do some coding and is in person taking place in the ***{{ location }}*** ***{{ location link }}***. There will be breaks during the course and an hour provided for lunch, lunch is NOT provided so please make your own arrangements. 
+The workshop will be hands on so be prepared to do some coding and is in person taking place in the ***{{ location }}*** ***{{ location link }}***. There will be breaks during the course and an hour provided for lunch; lunch is NOT provided so please make your own arrangements. 
 
 Pre-workshop preparation: 
 - To prepare for this workshop please [register for a Google account](https://accounts.google.com/signup) to allow you access to Google Colab. 
