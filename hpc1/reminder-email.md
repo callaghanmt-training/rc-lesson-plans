@@ -12,7 +12,7 @@ For everyone:
 
 If you haven’t already request an account for the HPC via this link - https://leeds.service-now.com/it?id=sc_cat_item&sys_id=4c002dd70f235f00a82247ece1050ebc 
 
-If you haven’t done this already please read the setup steps below but you won’t be able to login to ARC as you won’t have an account yet. We’ll give you a training account tomorrow for the workshop.
+If you haven’t done this already please read the setup steps below but you won’t be able to login to ARC as you won’t have an account yet.
 
 For Windows Users:
 
