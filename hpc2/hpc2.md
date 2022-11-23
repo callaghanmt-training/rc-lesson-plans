@@ -49,7 +49,7 @@ This course requires users to have ARC4 accounts and to be familiar with how to 
 
 | Time      | Session                          | No. of helpers  | Learner activities |
 | --------- | -------------------------------- | --------------- | -----------------  |
-| 00:00     | Theory                           | 2               | This session will cover background information and concepts that the further sessions will build upon. The main topics to cover are:<br>- HPC Systems<br>- Build Tools<br>- Package Managers<br>- Environments|
+| 00:00     | Theory                           | 2               | This session will cover background information and concepts that the further sessions will build upon. The main topics to cover are:<br>- Files<br>- Software<br>- Build Tools<br>- Package Managers<br>- Platforms|
 | 01:00     | Break                            |                 |                    |
 | 01:10     | Conda                            | 2               | This session will introduce the Conda package manager <br> - It will distinguish between building code and installing pre-made code via Conda <br> - Highlight the `anaconda` module on HPC <br> - Explain the concept of Conda environments <br> - demonstrate creating environments, installing packages, removing packages, searching for packages, export environments  |
 | 01:50     | Break                            |                 |                    |
