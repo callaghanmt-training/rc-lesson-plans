@@ -74,7 +74,7 @@ Try and install something you need on HPC. Use the chat to get back in touch wit
 | 00:50     | Break                           |                  |                    |
 | 01:00     | Containers (cont.)/Spack        | 2                |                    |
 | 01:50     | Break                           |                  |                    |
-| 02:00     | Spack                           | 2                |                    |                    
+| 02:00     | Spack                           | 2                | Intro to Spack, how it fits in with other tools<br/>- Install spack, demo test install of pigz<br/>- Using existing software, talk, show adding a compiler<br/>- Advanced software, talk through, show info, show spec, skim containers/environments<br/>- Show that you can make your own recipes                 |                    
 | 02:50     | Wrap up & Questions             |                  |                    |
 | 03:00     | Close                           |                  |                    |
 
