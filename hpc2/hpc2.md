@@ -10,9 +10,11 @@ The purpose of the workshop is to introduce the application development environm
     * Building software using GNU Autotools
     * Using conda package manager
     * Building software using cmake
-    * Interacting and using singularity/Apptainer containers
-    * Using spack package manager
-    * Building personal modules on HPC
+    * Interacting and using Singularity/Apptainer containers
+
+    * Using Spack package manager
+
+ 
 
 ## Instructor todo
 
