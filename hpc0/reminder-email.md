@@ -26,6 +26,8 @@ MacOS and Linux users do not need MobaXTerm but can use your builtin Terminal ap
  
 Please attempt to read the documentation and watch the videos carefully and attempt the setup steps. If you have any problems don’t worry we will spend the start of the workshop making sure everyone is connected.
  
+*Note: For cancellations, please inform IT Training by email (ittraining@leeds.ac.uk).*
+
 Thanks
- 
+
 ***{{ Sender }}***

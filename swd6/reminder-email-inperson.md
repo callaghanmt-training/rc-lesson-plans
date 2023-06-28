@@ -14,7 +14,8 @@ Please also note this is NOT an introductory course to Python and we expect atte
 
 If you have any questions or queries please get in touch.
 
-Thanks,
+*Note: For cancellations, please inform IT Training by email (ittraining@leeds.ac.uk).*
 
-***{{ sender }}***
+Thanks
 
+***{{ Sender }}***
