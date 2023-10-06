@@ -29,17 +29,16 @@ This course **does** require pre course prep as we expect users to have HPC acco
 
 - Users register for HPC accounts using the [HPC account request form](https://leeds.service-now.com/it?id=sc_cat_item&sys_id=4c002dd70f235f00a82247ece1050ebc)
 - Set up personal computer for connecting to HPC (HPC account required)
-    - An overview can be found [here (including screenshots)](https://hackmd.io/xBKb6Az3QmewUsVF3ab2qg#Pre-workshop-prep)
+    - An overview can be found [here (including screenshots)](https://hackmd.io/@research-computing-leeds/hpc1-2023-10#Pre-workshop-prep)
     - For Windows, downloading MobaXTerm and configuring a session with ssh Gateway settings
     - For MacOS/Linux, creating a `~/.ssh/config` file with ProxyJump rule to `remote-access.leeds.ac.uk`
 
 ## Lesson resources
 
-- **Presentation for HPC1** - https://bit.ly/hpc1intro
-- **HPC1 exercises** - https://docs.google.com/document/d/1SPaZ2kmzYpMFIkiMSi-Qnu-ZqLaW4reSpVal3aOrmmk/edit
+- **Presentation for HPC1** - https://arctraining.github.io/rc-slides/hpc1.html
 - **Github repository** - https://github.com/arctraining/hpc1-files
-- **Documentation page on file transfer** -https://arcdocs.leeds.ac.uk/getting_started/file_transfer.html
-- **Example Hackpad** - https://hackmd.io/@sparrow0hawk/HkMWqp9Id
+- **General ARC Docs** - https://arcdocs.leeds.ac.uk
+- **Example Hackpad** - https://hackmd.io/@research-computing-leeds/hpc1-2023-10
 
 ## Delivery plan
 

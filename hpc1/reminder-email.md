@@ -1,6 +1,6 @@
 Hi Everyone,
 
-This is a reminder about part 1 of HPC1 – HPC Carpentry, which you are signed up for happening next Monday starting at ***{{ start time }}***. It will be held and recorded via Microsoft Teams using the link below. You can find the slides for the workshop at https://bit.ly/hpc1intro and the interactive Hackpad, which you can use to take notes during the training, at -***{{ Session Hackpad link }}***
+This is a reminder about part 1 of HPC1 – HPC Carpentry, which you are signed up for happening next Monday starting at ***{{ start time }}***. It will be held and recorded via Microsoft Teams using the link below. You can find the slides for the workshop at https://arctraining.github.io/rc-slides/hpc1.html and the interactive Hackpad, which you can use to take notes during the training, at -***{{ Session Hackpad link }}***
 
 You can join the meeting using the link below:
 
