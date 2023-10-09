@@ -33,7 +33,7 @@ This course doesn't explicitly require pre course prep however it is encouraged 
 
 ## Lesson resources
 
-- **HPC0 slides** - https://bit.ly/hpc0linux
+- **HPC0 slides** - [https://bit.ly/hpc0linux](https://arctraining.github.io/rc-slides/hpc0.html)
 - **Exercises** - https://drive.google.com/file/d/1dV8fMS_n6GOFZO_rmFfUBwnuBFGj6C58/view?usp=sharing
 - **Example hackpad** - https://hackmd.io/@sparrow0hawk/HyPvxsWUu/edit 
 - **Bash commands crib sheet** - https://drive.google.com/file/d/0B4hIpRJzq8DPVG5xdEJWcGlRTkU/view?usp=sharing
