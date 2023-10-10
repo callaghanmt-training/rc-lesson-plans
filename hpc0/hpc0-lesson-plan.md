@@ -1,12 +1,12 @@
 # HPC0: Introduction to Linux
 
-HPC0 is our introductory course to the linux command line. It is a key prerequisite course prior to HPC1 and provides a gentle introduction for users to the unix shell. The initial set up steps often require several helpers to provide one-to-one support for users who struggle with the initial configuration of SSH clients.
+HPC0 is our introductory course to the Linux command line. It is a key prerequisite course prior to HPC1 and provides a gentle introduction for users to the unix shell. The initial set-up steps often require several helpers to provide one-to-one support for users who struggle with the initial configuration of SSH clients.
 
 ## Learning objectives
 
 - Understand the purpose of the Linux Shell
 - Effectively manage Files and Directories at the command line
-- Understand the structure of the linux filesystem
+- Understand the structure of the Linux filesystem
 - Create files, directories and other objects
 - Create Pipes and Filters to join together commands
 - Understand how to find help from the command line
@@ -33,10 +33,9 @@ This course doesn't explicitly require pre course prep however it is encouraged 
 
 ## Lesson resources
 
-- **HPC0 slides** - [https://bit.ly/hpc0linux](https://arctraining.github.io/rc-slides/hpc0.html)
-- **Exercises** - https://drive.google.com/file/d/1dV8fMS_n6GOFZO_rmFfUBwnuBFGj6C58/view?usp=sharing
+- **HPC0 slides** - https://arctraining.github.io/rc-slides/hpc0.html
 - **Example hackpad** - https://hackmd.io/@sparrow0hawk/HyPvxsWUu/edit 
-- **Bash commands crib sheet** - https://drive.google.com/file/d/0B4hIpRJzq8DPVG5xdEJWcGlRTkU/view?usp=sharing
+- [**Bash commands crib sheet**](https://leeds365.sharepoint.com/:b:/r/sites/TEAM-ResearchSoftwareEngineering/Shared%20Documents/Research%20Computing%20Training/Cribsheets/Linux/unixcribsheet.pdf?csf=1&web=1&e=HUqsza)
 
 ## Delivery plan
 
