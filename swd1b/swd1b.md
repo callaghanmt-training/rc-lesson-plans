@@ -1,4 +1,4 @@
-# SWD1a: Introduction to Python Programming
+# SWD1a: Introduction to R Programming
 
 SWD1b is our introductory course to programming in R for people with little or no previous programming experience. It uses plotting and visualising data as its motivating example based on an established research dataset. The course is suitable for attendees from all research domains and we will use a Web based programming environment (a RStudio Cloud) which means you will be able to apply the ideas you learn on the course straightaway without having to install any software at home or at work.
 
