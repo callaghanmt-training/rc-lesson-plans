@@ -1,6 +1,6 @@
 Hi Everyone,
 
-Thanks for attending our HPC2: Installing and Managing Applications on the HPC course last ***{{ date }}***. We hope you found the course interesting, and it has given you some ideas to take forward with your own work.
+Thanks for attending our HPC2: Installing and Managing Applications on the HPC course on ***{{ date }}***. We hope you found the course interesting, and it has given you some ideas to take forward with your own work.
 
 Please see below for a summary of the materials:
 

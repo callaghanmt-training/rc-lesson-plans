@@ -1,6 +1,6 @@
 Hi Everyone,
 
-Thanks for attending our SWD6 High Performance Python course last ***{{ date }}***. We hope you found the course interesting, and it has given you some ideas to take forward with your own work.
+Thanks for attending our SWD6 High Performance Python course on ***{{ date }}***. We hope you found the course interesting, and it has given you some ideas to take forward with your own work.
 
 Please see below for a summary of the materials:
 

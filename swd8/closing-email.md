@@ -1,6 +1,6 @@
 Hi Everyone,
 
-Thanks for attending our SWD8 Introduction to Machine Learning course last ***{{ date }}***. We hope you found the course interesting, and it has given you some ideas to take forward with your own work.
+Thanks for attending our SWD8 Introduction to Machine Learning course on ***{{ date }}***. We hope you found the course interesting, and it has given you some ideas to take forward with your own work.
 
 Please see below for a summary of the materials:
 
