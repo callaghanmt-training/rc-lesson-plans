@@ -13,7 +13,7 @@ We have added some additional further reading and textbooks suggestions in the h
 Please feel free to invite us for a coffee/chat any time!
 Also feel free to drop us at Research Computing a question about anything computational research related via <https://bit.ly/arc-help>
 
-We also invite you to take 5 minutes to complete this feedback form for SWD6 High Performance Python. This helps us to keep improving!
+We also invite you to take 5 minutes to complete this feedback form for SWD8 Introduction to Machine Learning. This helps us to keep improving!
 <https://leeds.onlinesurveys.ac.uk/it-training-online-sessions-feedback>
 
 Thanks,
